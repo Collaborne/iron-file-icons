@@ -5,7 +5,7 @@
     "collaborne"
   ],
   "description": "Material Design icons for file types (Polymer 1.x)",
-  "main": "iron-file-icons.html",
+  "main": "file-icons.html",
   "keywords": [
     "web-components",
     "polymer",
