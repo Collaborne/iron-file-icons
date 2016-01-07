@@ -1,0 +1,31 @@
+{
+  "name": "iron-file-icons",
+  "version": "1.0.0",
+  "authors": [
+    "collaborne"
+  ],
+  "description": "Material Design icons for file types (Polymer 1.x)",
+  "main": "iron-file-icons.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "html",
+    "echo"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/collaborne/iron-file-icons",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "test-fixture": "PolymerElements/test-fixture#^1.0.0",
+    "web-component-tester": "*",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
