@@ -63,3 +63,4 @@ git commit -am 'Deploy to GitHub Pages'
 git push --force --quiet -u "https://${GH_TOKEN}@${GH_REF}" gh-pages > /dev/null 2>&1
 
 popd >/dev/null
+
