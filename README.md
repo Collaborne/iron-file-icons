@@ -6,6 +6,8 @@ iron-file-icons [![Bower version](https://badge.fury.io/bo/iron-file-icons.svg)]
 
 Material Design icons for file types. The web component is built with [Polymer 1.x](https://www.polymer-project.org).
 
+The icons itself have been taken from [materialdesignicons](https://materialdesignicons.com/).
+
 To use this element:
 
 `bower install iron-file-icons`
