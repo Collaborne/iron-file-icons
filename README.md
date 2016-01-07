@@ -1,4 +1,4 @@
-_[Demo](http://collaborne.github.io/iron-file-icons/demo)_
+_[Demo](http://collaborne.github.io/iron-file-icons/components/iron-file-icons/demo/)_
 
 
 iron-file-icons [![Bower version](https://badge.fury.io/bo/iron-file-icons.svg)](http://badge.fury.io/bo/iron-file-icons) [![Travis state](https://travis-ci.org/Collaborne/iron-file-icons.svg?branch=master)](https://travis-ci.org/Collaborne/iron-file-icons)
