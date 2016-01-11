@@ -9,8 +9,9 @@
   "keywords": [
     "web-components",
     "polymer",
-    "html",
-    "echo"
+    "icons",
+    "file types",
+    "files"
   ],
   "license": "Apache 2",
   "homepage": "https://github.com/collaborne/iron-file-icons",
