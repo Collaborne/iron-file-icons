@@ -3,7 +3,7 @@
   "authors": [
     "collaborne"
   ],
-  "description": "Material Design icons for file types (Polymer 1.x)",
+  "description": "Material Design icons for file types",
   "main": "file-icons.html",
   "keywords": [
     "web-components",
@@ -18,14 +18,13 @@
     "**/.*"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0",
-    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.0"
+    "polymer": "Polymer/polymer#^2.0.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^2.0.0"
   },
   "devDependencies": {
-    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "test-fixture": "PolymerElements/test-fixture#^1.0.0",
-    "web-component-tester": "*",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "iron-icon": "PolymerElements/iron-icon#^2.0.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#^2.0.0",
+    "web-component-tester": "*"
   }
 }
