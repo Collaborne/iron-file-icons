@@ -15,7 +15,7 @@ To use this element:
   <template>
     <script src="../webcomponentsjs/webcomponents-lite.js"></script>
     <link rel="import" href="../iron-icon/iron-icon.html">
-    <link rel="import" href="iron-file-icons.html">
+    <link rel="import" href="file-icons.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
