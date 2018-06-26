@@ -1,4 +1,7 @@
 iron-file-icons [![Bower version](https://badge.fury.io/bo/iron-file-icons.svg)](http://badge.fury.io/bo/iron-file-icons) [![Travis state](https://travis-ci.org/Collaborne/iron-file-icons.svg?branch=master)](https://travis-ci.org/Collaborne/iron-file-icons) [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/Collaborne/iron-file-icons)
+
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/Collaborneiron-file-icons)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/Collaborneiron-file-icons.svg)](https://vaadin.com/directory/component/Collaborneiron-file-icons)
 =========
 
 Material Design icons for file types. The web component is built with [Polymer](https://www.polymer-project.org).
