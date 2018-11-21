@@ -17,4 +17,4 @@ before_script:
 - $(npm bin)/bower install
 - $(npm bin)/polymer lint --rules polymer-2
 script:
-- xvfb-run $(npm bin)/wct
+- LAUNCHPAD_BROWSERS=firefox xvfb-run $(npm bin)/wct
